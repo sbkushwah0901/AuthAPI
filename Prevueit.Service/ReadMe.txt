@@ -1,0 +1,1 @@
+﻿dotnet ef dbcontext scaffold "Server=SG2NWPLS19SQL-v07.mssql.shr.prod.sin2.secureserver.net;Database=prevuit;User ID=prevuit;PersistSecurityInfo=False;Password=Arvaan@123;Encrypt=true;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -o Models -f
